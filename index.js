@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Customize your bot's status by forking this."];
+const statusMessages = ["Watching .gg/bkclan"];
 
 
 let currentIndex = 0;
